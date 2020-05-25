@@ -13,5 +13,9 @@ function triangle() {
         //check whether the user has typed something
         display.innerHTML = "<p>Please <span class='fill'>FILL</span> all the fields</p>"
       } else {
+        //convert the strings to numbers
+        a = parseFloat(a);
+        b = parseFloat(b);
+        c = parseFloat(c);
 
 }
