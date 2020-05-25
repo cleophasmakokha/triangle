@@ -35,3 +35,7 @@ To access this project on your local files, you can clone it using these steps
 | User enters three equal sides                         | 2,2,2          | That is an EQUILATERAL triangle    |
 | When the sum of any two sides > third side         | 7,7,5          | That is NOT a triangle |
 | When the user doesn't enter a number| "is", 3,5   | That is NOT a number|
+
+
+### Live Site
+View [live](https://cleophasmakokha.github.io/triangle/)
