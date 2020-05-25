@@ -7,3 +7,14 @@ body {
 h1 {
   color: white;
   font-family: Bungee Shade;
+}
+.form {
+  width: 40%;
+  border-radius: 10px;
+  background: whitesmoke;
+  text-align: center;
+  margin: 0 auto;
+  padding: 1%;
+  height: auto;
+
+}
