@@ -18,3 +18,34 @@ h1 {
   height: auto;
 
 }
+.fill {
+  color: green;
+  font-weight: 500;
+}
+
+.input-field {
+  display: block;
+  margin: 20px;
+}
+
+.input-field label {
+  margin-right: 90px;
+}
+.input:active {
+  border-color:  #428bca;
+}
+.button {
+  text-align: center;
+  font-size: 15px;
+  padding: 7px;
+  border-radius: 7px;
+  background: #428bca;
+  border: 1px solid #428bca;
+  color: white;
+  outline-style: none;
+  font-family: Text Me One;
+}
+.button:hover {
+  color: 	#428bca;
+  background-color: white;
+}
