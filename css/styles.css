@@ -68,3 +68,22 @@ h1 {
 #footer i {
   color: red;
 }
+@media (max-width: 900px) {
+  .form {
+    width: 500px;
+  }
+}
+@media (max-width: 768px) {
+  .form {
+    width: 400px;
+  }
+}
+@media (max-width: 480px) {
+  .form {
+    width: 250px;
+  }
+  #footer {
+    position: relative;
+    left: 0;
+  }
+}
