@@ -10,5 +10,8 @@ function triangle() {
       var display = document.getElementById("display");
       var explanation = document.getElementById("explanation");
       if(a.length === 0 || b.length === 0 || c.length === 0 ) {
+        //check whether the user has typed something
+        display.innerHTML = "<p>Please <span class='fill'>FILL</span> all the fields</p>"
+      } else {
 
 }
