@@ -41,5 +41,8 @@ function triangle() {
       }
     }
 
+    function reset() {
+      location.reload();
+    }
 
 }
